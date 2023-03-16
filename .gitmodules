@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mr.pivw"]
+	path = mr.pivw
+	url = https://github.com/siqixu/mr.pivw
+	shallow = true
+	registered = true
